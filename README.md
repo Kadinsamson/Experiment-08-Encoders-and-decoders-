@@ -132,4 +132,4 @@ endmodule
 
 
 ### RESULTS 
-    Therefore 8 to 3 ENCODER and 3 to 8 DECODER are implemented successfully using verilog and validate its output.
+Therefore 8 to 3 ENCODER and 3 to 8 DECODER are implemented successfully using verilog and validate its output.
